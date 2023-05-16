@@ -1,0 +1,17 @@
+C:\ws-C#\Projeto_Pizzaria\Projeto_Pizzaria\bin\Debug\net6.0-windows\Projeto_Pizzaria.exe
+C:\ws-C#\Projeto_Pizzaria\Projeto_Pizzaria\bin\Debug\net6.0-windows\Projeto_Pizzaria.deps.json
+C:\ws-C#\Projeto_Pizzaria\Projeto_Pizzaria\bin\Debug\net6.0-windows\Projeto_Pizzaria.runtimeconfig.json
+C:\ws-C#\Projeto_Pizzaria\Projeto_Pizzaria\bin\Debug\net6.0-windows\Projeto_Pizzaria.dll
+C:\ws-C#\Projeto_Pizzaria\Projeto_Pizzaria\bin\Debug\net6.0-windows\Projeto_Pizzaria.pdb
+C:\ws-C#\Projeto_Pizzaria\Projeto_Pizzaria\obj\Debug\net6.0-windows\Projeto_Pizzaria.csproj.AssemblyReference.cache
+C:\ws-C#\Projeto_Pizzaria\Projeto_Pizzaria\obj\Debug\net6.0-windows\Projeto_Pizzaria.Form1.resources
+C:\ws-C#\Projeto_Pizzaria\Projeto_Pizzaria\obj\Debug\net6.0-windows\Projeto_Pizzaria.csproj.GenerateResource.cache
+C:\ws-C#\Projeto_Pizzaria\Projeto_Pizzaria\obj\Debug\net6.0-windows\Projeto_Pizzaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-C#\Projeto_Pizzaria\Projeto_Pizzaria\obj\Debug\net6.0-windows\Projeto_Pizzaria.AssemblyInfoInputs.cache
+C:\ws-C#\Projeto_Pizzaria\Projeto_Pizzaria\obj\Debug\net6.0-windows\Projeto_Pizzaria.AssemblyInfo.cs
+C:\ws-C#\Projeto_Pizzaria\Projeto_Pizzaria\obj\Debug\net6.0-windows\Projeto_Pizzaria.csproj.CoreCompileInputs.cache
+C:\ws-C#\Projeto_Pizzaria\Projeto_Pizzaria\obj\Debug\net6.0-windows\Projeto_Pizzaria.dll
+C:\ws-C#\Projeto_Pizzaria\Projeto_Pizzaria\obj\Debug\net6.0-windows\refint\Projeto_Pizzaria.dll
+C:\ws-C#\Projeto_Pizzaria\Projeto_Pizzaria\obj\Debug\net6.0-windows\Projeto_Pizzaria.pdb
+C:\ws-C#\Projeto_Pizzaria\Projeto_Pizzaria\obj\Debug\net6.0-windows\Projeto_Pizzaria.genruntimeconfig.cache
+C:\ws-C#\Projeto_Pizzaria\Projeto_Pizzaria\obj\Debug\net6.0-windows\ref\Projeto_Pizzaria.dll
